@@ -1,0 +1,15 @@
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\bin\Debug\net6.0\TodoApp.exe
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\bin\Debug\net6.0\TodoApp.deps.json
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\bin\Debug\net6.0\TodoApp.runtimeconfig.json
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\bin\Debug\net6.0\TodoApp.dll
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\bin\Debug\net6.0\TodoApp.pdb
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\obj\Debug\net6.0\TodoApp.csproj.AssemblyReference.cache
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\obj\Debug\net6.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\obj\Debug\net6.0\TodoApp.AssemblyInfoInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\obj\Debug\net6.0\TodoApp.AssemblyInfo.cs
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\obj\Debug\net6.0\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\obj\Debug\net6.0\TodoApp.dll
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\obj\Debug\net6.0\refint\TodoApp.dll
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\obj\Debug\net6.0\TodoApp.pdb
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\obj\Debug\net6.0\TodoApp.genruntimeconfig.cache
+C:\Users\hushd\Desktop\Software Architecture\TodoAppSolution\TodoApp\obj\Debug\net6.0\ref\TodoApp.dll
